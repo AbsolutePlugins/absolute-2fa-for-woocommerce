@@ -7,7 +7,10 @@
 
 [Absolute 2fa For Woocommerce](https://wordpress.org/plugins/absp-2fa-for-woocommerce/) is a [Two Factor Authentication](https://wordpress.org/plugins/two-factor-authentication/) addon that will add 2fa settings page under WooCommerce's My Account Page.
 
-![Demo Screenshot](2fa-settings-woocommerce.jpg)
+![Demo Screenshot](.wordpress-org/screenshot-1.jpg)
 
-# License
-GPL-v2-or-later &copy; [AbsolutePlugins](https://absoluteplugins.com/)
+<p align="center">
+    <br/><br/>
+    Made with 💜 by <a href="https://absoluteplugins.com/">AbsolutePlugins</a>.<br/>
+    <a href="https://www.facebook.com/pixelaarllc/jobs/">We're hiring</a>! Come work with us!
+</p>
