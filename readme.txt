@@ -3,9 +3,9 @@ Contributors: absoluteplugins, niamul, mhamudul_hk
 Donate link: https://absoluteplugins.com/donate/
 Tags: two factor, 2fa, tfa, two factor auth, google authenticator
 Requires at least: 4.5
-Tested up to: 5.8.2
+Tested up to: 5.9
 Requires PHP: 5.6
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -43,6 +43,10 @@ Please flush the permalink settings.
 1. 2FA Settings Page
 
 == Changelog ==
+
+= 1.0.1 – 2022-02-17 =
+* Tested with the latest WordPress & WooCommerce available
+* Update dependency notice.
 
 = 1.0.0 =
 * Initial Release.

@@ -5,13 +5,13 @@
  * Description: A <a href="https://wordpress.org/plugins/two-factor-authentication/">Two Factor Authentication</a> addon that will add 2fa settings page under WooCommerce's My Account Page.
  * Author: AbsolutePlugins
  * Author URI: https://absoluteplugins.com/
- * Version: 1.0.0
+ * Version: 1.0.1
  *
  * RequiresWP: 5.5.0
- * Tested Upto: 5.8.2
+ * Tested Upto: 5.9
  *
  * WC requires at least: 5.0.0
- * WC tested up to: 6.0.0
+ * WC tested up to: 6.2
  *
  * @package Absp_2fa_For_Woocommerce
  */
