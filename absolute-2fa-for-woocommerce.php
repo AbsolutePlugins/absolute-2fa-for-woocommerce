@@ -82,7 +82,7 @@ function abspWoo2fa_deps_missing() {
 	}
 	?>
 	<div class="notice notice-warning notice-alt">
-		<p><code>2fa For Woocommerce</code> needs <strong><a href="https://wordpress.org/plugins/two-factor-authentication/">Two Factor Authentication</a></strong> to be installed and active to work. Please install and activate <a href="<?php echo esc_url( admin_url( 'plugin-install.php?s=Two%20Factor%20Authentication%20By%20David%20Anderson&tab=search&type=term' ) ); ?>">Two Factor Authentication</a>.</p>
+		<p><code>2fa For Woocommerce</code> needs <strong><a href="https://wordpress.org/plugins/two-factor-authentication/">Two Factor Authentication</a></strong> to be installed and active to work. Please install and activate <a href="<?php echo esc_url( admin_url( 'plugin-install.php?s=Two%20Factor%20Authentication%20By%20David%20Anderson&tab=search&type=term' ) ); ?>">Two Factor Authentication</a> by – David Anderson.</p>
 	</div>
 	<?php
 }
