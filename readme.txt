@@ -44,7 +44,7 @@ Please flush the permalink settings.
 
 == Changelog ==
 
-= 1.0.2 – 2022-06-05 =
+= 1.0.2 – 2022-06-06 =
 * **Updated** Tested upto WordPress 6.0 & WooCommerce 6.5
 
 = 1.0.1 – 2022-02-17 =
